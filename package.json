@@ -1,0 +1,36 @@
+{
+  "name": "@mindaugaskasp/node-youtube",
+  "version": "1.0.0",
+  "description": "node youtube package for streaming and retrieving audio data",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mindaugaskasp/node-youtube.git"
+  },
+  "keywords": [
+    "discord",
+    "youtube",
+    "node",
+    "youtube",
+    "youtube",
+    "stream"
+  ],
+  "author": "Mindaugas Kasparavičius",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mindaugaskasp/node-youtube/issues"
+  },
+  "homepage": "https://github.com/mindaugaskasp/node-youtube#readme",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "moment": "^2.24.0",
+    "promise": "^8.0.2",
+    "promised-io": "^0.3.5",
+    "superagent": "^4.1.0",
+    "validator": "^10.11.0",
+    "ytdl": "^0.11.1"
+  }
+}
